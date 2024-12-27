@@ -1,16 +1,21 @@
 # 한걸음 1팀
+
 블로그 발표 및 영상 업로드 스터디입니다.
 
 ## 스터디 방식
+
 1. 매주 학습한 내용으로 블로그를 작성합니다.
 2. 해당 내용으로 매주 만나 발표합니다.
 3. 발표는 영상으로 녹화해 유튜브에 업로드합니다.
 
 ## 유튜브 영상 형식
+
 ### 제목
+
 [한걸음] 제목 - 이름
 
 ### 설명
+
 🌿매주 블로그 글을 발표하는 스터디 한걸음입니다.🌿
 
 한걸음 더 알아보기: https://github.com/Hangeoreum
@@ -24,6 +29,7 @@
 발표자 Github:
 
 ## 참여자
+
 <table>
   <tr>
     <td align="center">
@@ -81,6 +87,7 @@
 </table>
 
 ### <a href="https://github.com/Zepelown" title="Code"><b>윤성원</b></a>
+
 <table>
   <tr>
     <td align="center">
@@ -109,6 +116,7 @@
 </table>
 
 ### <a href="https://github.com/seongwon030" title="Code"><b>서성원</b></a>
+
 <table>
   <tr>
     <td align="center">
@@ -128,15 +136,18 @@
     <td align="center"><b>24.12.26</b></td>
     <td align="center">
       <b>
-        -
+       <a href="https://velog.io/@seongwon__105/내가-리액트를-사용하는-이유">내가 리액트를 사용하는 이유
+       </a>
       </b>
     </td>
     <td align="center"><b>-</b></td>
     <td align="center"><b>-</b></td>
+
   </tr>
 </table>
 
 ### <a href="https://github.com/oesnuj" title="Code"><b>김준서</b></a>
+
 <table>
   <tr>
     <td align="center">
