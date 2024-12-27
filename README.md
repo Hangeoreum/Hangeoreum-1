@@ -1,3 +1,5 @@
+![배너 (1)](https://github.com/user-attachments/assets/3195853e-28ef-4379-957a-0d364c4216ed)
+
 # 한걸음 1팀
 
 블로그 발표 및 영상 업로드 스터디입니다.
