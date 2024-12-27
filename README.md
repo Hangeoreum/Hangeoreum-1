@@ -22,3 +22,144 @@
 해당 블로그 포스트:
 
 발표자 Github:
+
+## 참여자
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://avatars.githubusercontent.com/u/167384362?v=4" width="120px;"/>   
+        <br />
+        <a href="https://github.com/gyehyun-bak" title="Code"><b>@gyehyun-bak</b></a>
+    </td>
+    <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/49135677?v=4" width="120px;"/> 
+        <br />
+        <a href="https://github.com/Zepelown" title="Code"><b>@Zepelown</b></a>
+    </td>
+    <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/105052068?v=4" width="120px;"/> 
+        <br />
+        <a href="https://github.com/seongwon030" title="Code"><b>@seongwon030</b></a>
+    </td>
+        <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/112786665?v=4" width="120px;"/> 
+        <br />
+        <a href="https://github.com/oesnuj" title="Code"><b>@oesnuj</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>박계현</b></td>
+    <td align="center"><b>윤성원</b></td>
+    <td align="center"><b>서성원</b></td>
+    <td align="center"><b>김준서</b></td>
+  </tr>
+</table>
+
+### <a href="https://github.com/gyehyun-bak" title="Code"><b>박계현</b></a>
+
+<table>
+  <tr>
+    <td align="center">
+      날짜
+    </td>
+    <td align="center">
+      블로그
+    </td>
+    <td align="center">
+      유튜브
+    </td>
+    <td align="center">
+      이슈 번호
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>24.12.26</b></td>
+    <td align="center"><b>-</b></td>
+    <td align="center"><b>https://youtu.be/a47irsp9GOA</b></td>
+    <td align="center"><b>-</b></td>
+  </tr>
+</table>
+
+### <a href="https://github.com/Zepelown" title="Code"><b>윤성원</b></a>
+<table>
+  <tr>
+    <td align="center">
+      날짜
+    </td>
+    <td align="center">
+      블로그
+    </td>
+    <td align="center">
+      유튜브
+    </td>
+    <td align="center">
+      이슈 번호
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>24.12.26</b></td>
+    <td align="center">
+      <b>
+        <a href="https://namamim.tistory.com/32">Spring IoC Container와 Beans(Feat. 의존성 주입)</a>
+      </b>
+    </td>
+    <td align="center"><b>https://youtu.be/U7sQMVRJx1w</b></td>
+    <td align="center"><b>-</b></td>
+  </tr>
+</table>
+
+### <a href="https://github.com/seongwon030" title="Code"><b>서성원</b></a>
+<table>
+  <tr>
+    <td align="center">
+      날짜
+    </td>
+    <td align="center">
+      블로그
+    </td>
+    <td align="center">
+      유튜브
+    </td>
+    <td align="center">
+      이슈 번호
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>24.12.26</b></td>
+    <td align="center">
+      <b>
+        -
+      </b>
+    </td>
+    <td align="center"><b>-</b></td>
+    <td align="center"><b>-</b></td>
+  </tr>
+</table>
+
+### <a href="https://github.com/oesnuj" title="Code"><b>김준서</b></a>
+<table>
+  <tr>
+    <td align="center">
+      날짜
+    </td>
+    <td align="center">
+      블로그
+    </td>
+    <td align="center">
+      유튜브
+    </td>
+    <td align="center">
+      이슈 번호
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>24.12.26</b></td>
+    <td align="center">
+      <b>
+        -
+      </b>
+    </td>
+    <td align="center"><b>-</b></td>
+    <td align="center"><b>-</b></td>
+  </tr>
+</table>
