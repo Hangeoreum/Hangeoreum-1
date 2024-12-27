@@ -93,7 +93,7 @@ https://www.figma.com/design/g78NMYuZ7YQ67werd1gf4X/%ED%95%9C%EA%B1%B8%EC%9D%8C-
   </tr>
   <tr>
     <td align="center"><b>24.12.26</b></td>
-    <td align="center"><b>-</b></td>
+    <td align="center"><b><a href="https://velog.io/@gyehyunbak/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%9B%B9%EC%86%8C%EC%BC%93-STOMP%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%B1%84%ED%8C%85-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0">스프링 + 리액트 + 웹소켓 + STOMP로 간단한 채팅 구현하기</a></b></td>
     <td align="center"><b>https://youtu.be/a47irsp9GOA</b></td>
     <td align="center"><b>-</b></td>
   </tr>
