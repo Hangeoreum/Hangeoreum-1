@@ -104,7 +104,7 @@
   </tr>
   <tr>
     <td align="center"><b>24.01.02</b></td>
-    <td align="center"><b>[2024년 회고 - 개발자로서 쓰는 첫 회고](https://velog.io/@gyehyunbak/2024%EB%85%84-%ED%9A%8C%EA%B3%A0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%84%9C-%EC%93%B0%EB%8A%94-%EC%B2%AB-%ED%9A%8C%EA%B3%A0)</b></td>
+    <td align="center"><b><a href="https://velog.io/@gyehyunbak/2024%EB%85%84-%ED%9A%8C%EA%B3%A0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%84%9C-%EC%93%B0%EB%8A%94-%EC%B2%AB-%ED%9A%8C%EA%B3%A0">2024년 회고 - 개발자로서 쓰는 첫 회고</a></b></td>
     <td align="center"><b>-</b></td>
     <td align="center"><b>-</b></td>
   </tr>
