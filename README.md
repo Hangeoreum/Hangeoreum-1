@@ -137,6 +137,17 @@
     <td align="center"><b>https://youtu.be/U7sQMVRJx1w</b></td>
     <td align="center"><b>-</b></td>
   </tr>
+  <tr>
+    <td align="center"><b>24.01.02</b></td>
+    <td align="center">
+      <b>
+       <a href="https://namamim.tistory.com/39">[회고]정말 다사다난했던 2024년
+       </a>
+      </b>
+    </td>
+    <td align="center"><b>-</b></td>
+    <td align="center"><b>-</b></td>
+  </tr>
 </table>
 
 ### <a href="https://github.com/seongwon030" title="Code"><b>서성원</b></a>
@@ -166,7 +177,6 @@
     </td>
     <td align="center"><b>-</b></td>
     <td align="center"><b>-</b></td>
-
   </tr>
 </table>
 
