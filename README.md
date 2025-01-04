@@ -178,6 +178,17 @@
     <td align="center"><b>-</b></td>
     <td align="center"><b>-</b></td>
   </tr>
+  <tr>
+    <td align="center"><b>24.01.02</b></td>
+    <td align="center">
+      <b>
+       <a href="https://velog.io/@seongwon__105/2024-회고">2024년 회고
+       </a>
+      </b>
+    </td>
+    <td align="center"><b>-</b></td>
+    <td align="center"><b>-</b></td>
+  </tr>
 </table>
 
 ### <a href="https://github.com/oesnuj" title="Code"><b>김준서</b></a>
