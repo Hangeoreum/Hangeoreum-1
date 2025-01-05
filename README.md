@@ -208,11 +208,22 @@
       이슈 번호
     </td>
   </tr>
-  <tr>
+    <tr>
     <td align="center"><b>24.12.26</b></td>
     <td align="center">
       <b>
         -
+      </b>
+    </td>
+    <td align="center"><b>-</b></td>
+    <td align="center"><b>-</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b>24.01.02</b></td>
+    <td align="center">
+      <b>
+               <a href="https://oesnuj.tistory.com/entry/2024-%ED%9A%8C%EA%B3%A0">2024년 회고
+       </a>
       </b>
     </td>
     <td align="center"><b>-</b></td>
