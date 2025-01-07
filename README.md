@@ -128,6 +128,12 @@
     <td align="center"><b>-</b></td>
     <td align="center"><b>-</b></td>
   </tr>
+  <tr>
+    <td align="center"><b>24.01.06</b></td>
+    <td align="center"><b><a href="https://velog.io/@gyehyunbak/Spring-React%EB%A1%9C-%EC%B1%84%ED%8C%85-%EA%B5%AC%ED%98%84-2">Spring + React로 채팅 구현 (2) - Session ID로 내가 보낸 메시지 오른쪽에 표시하기</a></b></td>
+    <td align="center"><b>https://youtu.be/ACWLdLz2IBg?si=Kmgtm6a-wC-FGOyc</b></td>
+    <td align="center"><b>-</b></td>
+  </tr>
 </table>
 
 ### <a href="https://github.com/Zepelown" title="Code"><b>윤성원</b></a>
