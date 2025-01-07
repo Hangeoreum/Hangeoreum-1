@@ -62,7 +62,7 @@
 
 ### 썸네일
 
-아래 피그마 파일을 수정해서 사용하거나 필요한 경우 자유롭게 제작합니다.
+아래 피그마 파일에서 템플릿을 복사하여 수정해 사용하거나 필요한 경우 자유롭게 제작합니다.
 
 [유튜브 썸네일 템플릿](https://www.figma.com/design/g78NMYuZ7YQ67werd1gf4X/%ED%95%9C%EA%B1%B8%EC%9D%8C-%EC%8D%B8%EB%84%A4%EC%9D%BC-%ED%85%9C%ED%94%8C%EB%A6%BF?node-id=0-1&p=f&t=EdbYRjB5ve7fuqVI-0)
 
