@@ -139,7 +139,7 @@
     <td align="center"><b>24.01.13</b></td>
     <td align="center"><b><a href="https://velog.io/@gyehyunbak/%EC%9B%B9-%EC%84%9C%EB%B2%84Web-Server%EC%99%80-%EC%9B%B9-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%9C%EB%B2%84Web-Application-Server-WAS">웹 서버(Web Server)와 웹 애플리케이션 서버(Web Application Server, WAS)</a></b></td>
     <td align="center"><b>https://youtu.be/NZWaedLCj1s?si=BFMjnxXMy9NEpcNL</b></td>
-    <td align="center"><b>-</b></td>https://youtu.be/NZWaedLCj1s?si=BFMjnxXMy9NEpcNL
+    <td align="center"><b>-</b></td>
   </tr>
 </table>
 
