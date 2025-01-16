@@ -222,17 +222,7 @@
     <td align="center"><b>-</b></td>
     <td align="center"><b>-</b></td>
   </tr>
-  <tr>
-    <td align="center"><b>24.01.02</b></td>
-    <td align="center">
-      <b>
-       <a href="https://velog.io/@seongwon__105/useState-공식문서-읽기">useState공식문서 읽기
-       </a>
-      </b>
-    </td>
-    <td align="center"><b>-</b></td>
-    <td align="center"><b>-</b></td>
-  </tr>
+  
    <tr>
     <td align="center"><b>24.01.02</b></td>
     <td align="center">
@@ -242,6 +232,23 @@
       </b>
     </td>
     <td align="center"><b>-</b></td>
+    <td align="center"><b>-</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b>24.01.06</b></td>
+    <td align="center">
+      <b>
+       <a href="https://velog.io/@seongwon__105/useState-공식문서-읽기">useState공식문서 읽기
+       </a>
+      </b>
+    </td>
+    <td align="center"><b>https://www.youtube.com/watch?v=cXaSblMZU3E</b></td>
+    <td align="center"><b>-</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b>24.01.13</b></td>
+    <td align="center"><b><a href="https://velog.io/@seongwon__105/리액트-최적화">React 최적화</a></b></td>
+    <td align="center"><b>https://www.youtube.com/watch?v=_iPNwcI7zBE</b></td>
     <td align="center"><b>-</b></td>
   </tr>
 </table>
