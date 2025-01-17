@@ -281,7 +281,7 @@
     <td align="center"><b>-</b></td>
   </tr>
   <tr>
-    <td align="center"><b>24.01.02</b></td>
+    <td align="center"><b>25.01.02</b></td>
     <td align="center">
       <b>
                <a href="https://oesnuj.tistory.com/entry/2024-%ED%9A%8C%EA%B3%A0">2024년 회고
@@ -292,14 +292,26 @@
     <td align="center"><b>-</b></td>
   </tr>
     <tr>
-    <td align="center"><b>24.01.06</b></td>
+    <td align="center"><b>25.01.06</b></td>
     <td align="center">
       <b>
-               <a href="https://oesnuj.tistory.com/entry/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98-%ED%99%94%EB%A9%B4-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%9B%90%EB%A6%ACDOM-CSSOM">브라우저 화면 렌더링 원리 – DOM, CSSOM부터 Display까지 총정리
+               <a href="https://oesnuj.tistory.com/entry/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98-%ED%99%94%EB%A9%B4-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%9B%90%EB%A6%ACDOM-CSSOM">브라우저 화면 렌더링 원리
        </a>
       </b>
     </td>
     <td align="center"><b>https://www.youtube.com/watch?v=ZBVTiwEiGyo</b></td>
+    <td align="center"><b>-</b></td>
+  </tr>
+    </tr>
+    <tr>
+    <td align="center"><b>25.01.13</b></td>
+    <td align="center">
+      <b>
+               <a href="https://oesnuj.tistory.com/entry/virtual-dom%EC%9D%B4%EB%9E%80-react%EC%9D%98-%EB%A0%8C%EB%8D%94%EB%A7%81-%EB%B0%A9%EC%8B%9D%EA%B3%BC-CSR-SSR-%EB%B9%84%EA%B5%90-%EC%A0%95%EB%A6%AC">React에서 사용하는 Virtual DOM
+       </a>
+      </b>
+    </td>
+    <td align="center"><b>https://www.youtube.com/watch?v=fTy6bCzo1fw</b></td>
     <td align="center"><b>-</b></td>
   </tr>
 </table>
