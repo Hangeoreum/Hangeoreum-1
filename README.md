@@ -198,7 +198,7 @@
     <td align="center"><b>https://youtu.be/EXpg_tUSsDA?si=x6ifHKNYnt3mxrEh</b></td>
     <td align="center"><b>-</b></td>
   </tr>
-    <tr>
+  <tr>
     <td align="center"><b>24.01.13</b></td>
     <td align="center">
       <b>
@@ -206,6 +206,16 @@
       </b>
     </td>
     <td align="center"><b>https://youtu.be/lvaPB6-bKUg?si=GDh69h5rm5tl3e3c</b></td>
+    <td align="center"><b>-</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b>24.01.20</b></td>
+    <td align="center">
+      <b>
+       <a href="https://namamim.tistory.com/49">자바(Java) 비동기 처리에 대하여</a>
+      </b>
+    </td>
+    <td align="center"><b>https://youtu.be/AGKArrHXv3w?si=j9jU3HGzJb0IK0Ci</b></td>
     <td align="center"><b>-</b></td>
   </tr>
 </table>
