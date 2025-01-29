@@ -141,6 +141,12 @@
     <td align="center"><b>https://youtu.be/NZWaedLCj1s?si=BFMjnxXMy9NEpcNL</b></td>
     <td align="center"><b>-</b></td>
   </tr>
+  <tr>
+    <td align="center"><b>24.01.20</b></td>
+    <td align="center"><b><a href="https://velog.io/@gyehyunbak/OAuth-2.0">OAuth 2.0</a></b></td>
+    <td align="center"><b>https://youtu.be/wQskmapr23M?si=DA11_GkT2N6p-ovo</b></td>
+    <td align="center"><b>-</b></td>
+  </tr>
 </table>
 
 ### <a href="https://github.com/Zepelown" title="Code"><b>윤성원</b></a>
