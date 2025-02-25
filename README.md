@@ -147,6 +147,18 @@
     <td align="center"><b>https://youtu.be/wQskmapr23M?si=DA11_GkT2N6p-ovo</b></td>
     <td align="center"><b>-</b></td>
   </tr>
+  <tr>
+    <td align="center"><b>24.02.06</b></td>
+    <td align="center"><b><a href="https://velog.io/@gyehyunbak/MVC-%ED%8C%A8%ED%84%B4-2cw1haq8">MVC 패턴</a></b></td>
+    <td align="center"><b>-</b></td>
+    <td align="center"><b>-</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b>24.02.24</b></td>
+    <td align="center"><b><a href="https://velog.io/@gyehyunbak/Servlet%EA%B3%BC-DispatcherServlet">Servlet과 DispatcherServlet</a></b></td>
+    <td align="center"><b>-</b></td>
+    <td align="center"><b>-</b></td>
+  </tr>
 </table>
 
 ### <a href="https://github.com/Zepelown" title="Code"><b>윤성원</b></a>
